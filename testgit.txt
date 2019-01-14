@@ -3,4 +3,4 @@ Git is free software distributed under the GPU.
 add a line for test.
 Creating a new branch is quick.
 Lalallalalalaa
-Creating a new branch is quick & simple.
+Creating a new branch is quick And simple.
